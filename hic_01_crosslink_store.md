@@ -93,8 +93,8 @@ _Note: educate yourself on the portion of your blood/hemolymph sample that is nu
    * In fish, liver has been demonstrated to work well
 2. Crosslink DNA by adding 1 mL formaldehyde solution (final concentration of 1%, v/v) to pellet. Incubate at room temperature for 10 minutes while inverting tubes.
 3. Add reagent to quench the crosslinking reaction and incubate at room temperature for 5 minutes with gentle mixing (slowly rock tubes)
-   * Either add XXX uL Glycine (final concentration of XXXmM)
-   * or add 176.5 uL, 5M Tris solution (final concentration of 750mM) to quench the reaction. 
+   * Either add 111 uL 2M Glycine (final concentration of 200 mM)
+   * or add 176.5 uL, 5M Tris solution (final concentration of 750 mM) to quench the reaction. 
      *	Change from Glycine to Tris based on this protocol and links therein https://star-protocols.cell.com/protocols/71 
 4. Discard supernatant into an appropriate collection container. If possible, place tubes in ice bath.
 5. Resuspend cells in 1ml of cold 1X PBS and incubate 5 minutes (in ice bath if possible. Discard supernatant
