@@ -26,7 +26,8 @@ _It is important to use blood, cells, or tissue with intact nuclei and chromatid
   * 1 mL per sample * 1.05
 * Either 2M Glycine or 5M Tris-HCL ph8.0
   * Glycine: 111.1 uL per sample * 1.05
-  * Tris: 176.5 uL per sample * 1.05
+  * Tris: 176.5 uL per sample * 1.05 (untested)
+    * Change from Glycine to Tris based on this protocol and links therein https://star-protocols.cell.com/protocols/71  
 * PBS
   * 1 mL per sample * 1.05
 * DNA Preservative
