@@ -24,8 +24,8 @@ _It is important to use blood, cells, or tissue with intact nuclei and chromatid
 
 * 1% Fresh Formaldehyde in Filtered Seawater
   * 1 mL per sample * 1.05
-* Either Glycine or 5M Tris-HCL ph8.0
-  * Glycine: XXXuL per sample * 1.05
+* Either 2M Glycine or 5M Tris-HCL ph8.0
+  * Glycine: 111 uL per sample * 1.05
   * Tris: 176.5 uL per sample * 1.05
 * PBS
   * 1 mL per sample * 1.05
@@ -75,7 +75,7 @@ _Note: educate yourself on the portion of your blood/hemolymph sample that is nu
 2. Pellet suspension cells or detached adherent cells by centrifugation at 300xG for 5 minutes.
 3. Crosslink DNA by adding 1 mL formaldehyde solution (final concentration of 1%, v/v) to pellet & resuspend cells by inverting and flicking tubes. Incubate at room temperature for 10 minutes while inverting tubes.
 4. Add reagent to quench the crosslinking reaction and incubate at room temperature for 5 minutes with gentle mixing (slowly rock tubes)
-   * Either add XXX uL Glycine (final concentration of XXXmM)
+   * Either add 111 uL Glycine (final concentration of 200mM)
    * or add 176.5 uL, 5M Tris solution (final concentration of 750mM) to quench the reaction. 
      *	Change from Glycine to Tris based on this protocol and links therein https://star-protocols.cell.com/protocols/71 
 5. Centrifuge for 5 minutes at 300xG (if possible at 4°C). Discard supernatant into an appropriate collection container.
@@ -107,4 +107,5 @@ _Note: educate yourself on the portion of your blood/hemolymph sample that is nu
 
 This protocol was adapted from:
 
-*Jason, please add here*
+Rao, S. S. P., M. H. Huntley, N. C. Durand, E. K. Stamenova, I. D. Bochkov, J. T. Robinson, A. L. Sanborn, I. Machol, A. D. Omer, E. S. Lander, and E. L. Aiden. 2014. A 3D Map of the Human Genome at Kilobase Resolution Reveals Principles of Chromatin Looping. Cell 159:1665–1680.
+
