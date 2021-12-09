@@ -62,12 +62,16 @@ _It is important to use blood, cells, or tissue with intact nuclei and chromatid
 2. Add labels and DNA preservative to screw cap tubes
    * place in storage/transport box
    * tape a tube map to the box
-3. 
+3. Pack sample collection supplies into compact box or baggie
+4. Pack gloves into box or baggie
+5. 
 
 
 ---
 
-## FIELD INSTRUCTIONS FOR CELLS
+## FIELD INSTRUCTIONS FOR CELLS/BLOOD/HEMOLYMPH
+
+_Note: educate yourself on the portion of your blood/hemolymph sample that is nucleated and modify protocol accordingly_
 
 1. Grow two to five million mammalian cells under recommended culture conditions to about 80% confluence.
 2. Pellet suspension cells or detached adherent cells by centrifugation at 300xG for 5 minutes.
@@ -76,11 +80,29 @@ _It is important to use blood, cells, or tissue with intact nuclei and chromatid
    * Either add XXX uL Glycine (final concentration of XXXmM)
    * or add 176.5 uL, 5M Tris solution (final concentration of 750mM) to quench the reaction. 
      *	Change from Glycine to Tris based on this protocol and links therein https://star-protocols.cell.com/protocols/71 
-•	Add 150uL of Tris solution to buffered formaldehyde & sample solution
-4) Centrifuge for 5 minutes at 300xG at 4°C. Discard supernatant into an appropriate collection container.
-5) Resuspend cells in 1ml of cold 1X PBS and spin for 5 minutes at 300xG at 4°C. Discard supernatant and
-flash-freeze cell pellets in liquid nitrogen or dry ice/ ethanol.
-6) Either proceed to the rest of the protocol or store cell pellets at -80°C
+5. Centrifuge for 5 minutes at 300xG (if possible at 4°C). Discard supernatant into an appropriate collection container.
+6. Resuspend cells in 1ml of cold 1X PBS and spin for 5 minutes at 300xG at 4°C. Discard supernatant
+7. Add DNA preservative
+   * if possible, flash-freeze cell pellets in liquid nitrogen or dry ice + ethanol.
+8. Storage: as cold as you can get, down to -80°C
+
+---
+
+## FIELD INSTRUCTIONS FOR TISSUE
+
+1. Take fresh tissue sample and place in snap-cap tube
+   * Live is best, the thinner the tissue the better so that formaldehyde can penetrate
+   * In fish, liver has been demonstrated to work well
+2. Crosslink DNA by adding 1 mL formaldehyde solution (final concentration of 1%, v/v) to pellet. Incubate at room temperature for 10 minutes while inverting tubes.
+3. Add reagent to quench the crosslinking reaction and incubate at room temperature for 5 minutes with gentle mixing (slowly rock tubes)
+   * Either add XXX uL Glycine (final concentration of XXXmM)
+   * or add 176.5 uL, 5M Tris solution (final concentration of 750mM) to quench the reaction. 
+     *	Change from Glycine to Tris based on this protocol and links therein https://star-protocols.cell.com/protocols/71 
+4. Discard supernatant into an appropriate collection container. If possible, place tubes in ice bath.
+5. Resuspend cells in 1ml of cold 1X PBS and incubate 5 minutes (in ice bath if possible. Discard supernatant
+6. Add DNA preservative
+   * if possible, flash-freeze cell pellets in liquid nitrogen or dry ice + ethanol.
+7. Storage: as cold as you can get, down to -80°C
 
 
 ## CITATIONS
