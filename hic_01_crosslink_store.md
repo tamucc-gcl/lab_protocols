@@ -58,14 +58,12 @@ _It is important to use blood, cells, or tissue with intact nuclei and chromatid
 
 ## LAB INSTRUCTIONS
 
-1. Mix chemicals required & store each in a leak and break proof container
+1. Mix chemicals required & store each in a leak and break proof container, add label to each
 2. Add labels and DNA preservative to screw cap tubes
    * place in storage/transport box
    * tape a tube map to the box
 3. Pack sample collection supplies into compact box or baggie
-4. Pack gloves into box or baggie
-5. 
-
+4. Pack other supplies, protect expensive equipment.
 
 ---
 
