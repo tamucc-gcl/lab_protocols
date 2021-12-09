@@ -67,19 +67,15 @@ _It is important to use blood, cells, or tissue with intact nuclei and chromatid
 
 ---
 
-## FIELD INSTRUCTIONS
+## FIELD INSTRUCTIONS FOR CELLS
 
-1) Grow two to five million mammalian cells under recommended culture conditions to about 80% confluence.
-Pellet suspension cells or detached adherent cells by centrifugation at 300xG for 5 minutes.
-•	Use Filtered Seawater to suspend cells & pellet – remove supernatant
-2) Resuspend cells in fresh medium at a concentration of 1x106 cells per 1 ml media. In a fume hood, add
-freshly made formaldehyde solution to a final concentration of 1%, v/v. Incubate at room temperature for
-10 minutes with mixing.
-•	Add 1mL of buffered formaldehyde & filtered seawater to each sample
-3) Add 5M Tris solution to a final concentration of 750mM to quench the reaction. Incubate at room
-temperature for 5 minutes on rocker. 
-•	Change from Glycine to Tris based on this protocol and links therein 
-o	https://star-protocols.cell.com/protocols/71 
+1. Grow two to five million mammalian cells under recommended culture conditions to about 80% confluence.
+2. Pellet suspension cells or detached adherent cells by centrifugation at 300xG for 5 minutes.
+3. Crosslink DNA by adding 1 mL formaldehyde solution (final concentration of 1%, v/v) to pellet & resuspend cells by inverting and flicking tubes. Incubate at room temperature for 10 minutes while inverting tubes.
+4. Add reagent to quench the crosslinking reaction and incubate at room temperature for 5 minutes with gentle mixing (slowly rock tubes)
+   * Either add XXX uL Glycine (final concentration of XXXmM)
+   * or add 176.5 uL, 5M Tris solution (final concentration of 750mM) to quench the reaction. 
+     *	Change from Glycine to Tris based on this protocol and links therein https://star-protocols.cell.com/protocols/71 
 •	Add 150uL of Tris solution to buffered formaldehyde & sample solution
 4) Centrifuge for 5 minutes at 300xG at 4°C. Discard supernatant into an appropriate collection container.
 5) Resuspend cells in 1ml of cold 1X PBS and spin for 5 minutes at 300xG at 4°C. Discard supernatant and
