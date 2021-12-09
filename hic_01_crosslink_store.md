@@ -44,7 +44,7 @@ _It is important to use blood, cells, or tissue with intact nuclei and chromatid
   * at least 1 per sample + a few to balance centrifuge if working with blood/hemolymph/cells
 * Screw cap 1-2 mL storage tubes w/ o-ring
   * 1 per sample
-  * pre-filled with 95 - 100% EtOH
+  * pre-filled with DNA preservative
 * Tube block
 *	Tube box for storage
 *	Cutting board
