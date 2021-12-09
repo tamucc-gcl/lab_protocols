@@ -27,7 +27,7 @@ _It is important to use blood, cells, or tissue with intact nuclei and chromatid
 * Either 2M Glycine or 5M Tris-HCL ph8.0
   * Glycine: 111.1 uL per sample * 1.05
   * Tris: 176.5 uL per sample * 1.05 (untested)
-    * Change from Glycine to Tris based on this protocol and links therein https://star-protocols.cell.com/protocols/71  
+    * Change from Glycine to Tris is untested, but based on this protocol and links therein https://star-protocols.cell.com/protocols/71  
 * PBS
   * 1 mL per sample * 1.05
 * DNA Preservative
@@ -78,7 +78,7 @@ _Note: educate yourself on the portion of your blood/hemolymph sample that is nu
 4. Add reagent to quench the crosslinking reaction and incubate at room temperature for 5 minutes with gentle mixing (slowly rock tubes)
    * Either add 111.1 uL Glycine (final concentration of 200 mM)
    * or add 176.5 uL, 5M Tris solution (final concentration of 750 mM) to quench the reaction. 
-     *	Change from Glycine to Tris based on this protocol and links therein https://star-protocols.cell.com/protocols/71 
+     *	Change from Glycine to Tris is untested, but based on this protocol and links therein https://star-protocols.cell.com/protocols/71 
 5. Centrifuge for 5 minutes at 300xG (if possible at 4°C). Discard supernatant into an appropriate collection container.
 6. Resuspend cells in 1ml of cold 1X PBS and spin for 5 minutes at 300xG at 4°C. Discard supernatant
 7. Add DNA preservative
@@ -96,7 +96,7 @@ _Note: educate yourself on the portion of your blood/hemolymph sample that is nu
 3. Add reagent to quench the crosslinking reaction and incubate at room temperature for 5 minutes with gentle mixing (slowly rock tubes)
    * Either add 111.1 uL 2M Glycine (final concentration of 200 mM)
    * or add 176.5 uL, 5M Tris solution (final concentration of 750 mM) to quench the reaction. 
-     *	Change from Glycine to Tris based on this protocol and links therein https://star-protocols.cell.com/protocols/71 
+     *	Change from Glycine to Tris is untested, but based on this protocol and links therein https://star-protocols.cell.com/protocols/71 
 4. Discard supernatant into an appropriate collection container. If possible, place tubes in ice bath.
 5. Resuspend cells in 1ml of cold 1X PBS and incubate 5 minutes (at 4°C in ice bath if possible). Discard supernatant
 6. Add DNA preservative
