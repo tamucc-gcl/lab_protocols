@@ -102,6 +102,7 @@ _Note: educate yourself on the portion of your blood/hemolymph sample that is nu
    * if possible, flash-freeze cell pellets in liquid nitrogen or dry ice + ethanol.
 7. Storage: as cold as you can get down to -80°C
 
+---
 
 ## CITATIONS
 
