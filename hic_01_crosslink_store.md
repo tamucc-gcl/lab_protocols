@@ -71,7 +71,7 @@ _It is important to use blood, cells, or tissue with intact nuclei and chromatid
 
 _Note: educate yourself on the portion of your blood/hemolymph sample that is nucleated and modify protocol accordingly_
 
-1. Grow two to five million mammalian cells under recommended culture conditions to about 80% confluence.
+1. Grow two to five million mammalian cells under recommended culture conditions to about 80% confluence. OR use syringe to take sample of blood/hemolymph
 2. Pellet suspension cells or detached adherent cells by centrifugation at 300xG for 5 minutes.
 3. Crosslink DNA by adding 1 mL formaldehyde solution (final concentration of 1%, v/v) to pellet & resuspend cells by inverting and flicking tubes. Incubate at room temperature for 10 minutes while inverting tubes.
 4. Add reagent to quench the crosslinking reaction and incubate at room temperature for 5 minutes with gentle mixing (slowly rock tubes)
