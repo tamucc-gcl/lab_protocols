@@ -98,7 +98,7 @@ _Note: educate yourself on the portion of your blood/hemolymph sample that is nu
    * or add 176.5 uL, 5M Tris solution (final concentration of 750 mM) to quench the reaction. 
      *	Change from Glycine to Tris based on this protocol and links therein https://star-protocols.cell.com/protocols/71 
 4. Discard supernatant into an appropriate collection container. If possible, place tubes in ice bath.
-5. Resuspend cells in 1ml of cold 1X PBS and incubate 5 minutes (in ice bath if possible. Discard supernatant
+5. Resuspend cells in 1ml of cold 1X PBS and incubate 5 minutes (at 4°C in ice bath if possible). Discard supernatant
 6. Add DNA preservative
    * if possible, flash-freeze cell pellets in liquid nitrogen or dry ice + ethanol.
 7. Storage: as cold as you can get down to -80°C
