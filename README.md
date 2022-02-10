@@ -7,6 +7,6 @@ We take no responsibility for errors in the protocols in this repository or the 
 
 ## CONTENTS 
 
-### EXPERIMENTAL METHODS 
-#### HI-C PROTOCOLS 
+### I. EXPERIMENTAL METHODS 
+#### a. HI-C PROTOCOLS 
 
