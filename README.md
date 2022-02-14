@@ -9,5 +9,5 @@ We take no responsibility for errors in the protocols in this repository or the 
 ## CONTENTS
 ---
 
-#### _IN SITU_ HI-C PROTOCOLS 
+### [_IN SITU_ HI-C PROTOCOLS](./hi-c) 
 
