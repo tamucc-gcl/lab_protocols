@@ -8,7 +8,9 @@ We take no responsibility for errors in the protocols in this repository or the 
 ---
 ## EXPERIMENTAL METHODS
 ---
-### _IN SITU_ HI-C PROTOCOLS 
+
+### _IN SITU_ HI-C PROTOCOL (Rao _et al._ 2014)
+
  _In situ Hi-C libraries can be constructed in three days: The below protocol takes either 3 or 4 days, depending on whether shorter incubation times are used for the restriction step (2 hours; see step 02, #6), the fill-in step (45 minutes; see step 03, #3), and the crosslink reversal step (1.5 hours; see step 03, #7)._
  
 [STEP 01: CROSSLINK & STORE ](https://github.com/tamucc-gcl/lab_protocols/blob/1d2f2d9ebb4f15198dcb03996fd022bf19280fa1/hic_01_crosslink_store.md)
