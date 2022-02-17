@@ -1,5 +1,18 @@
 # *IN SITU* HI-C STEP 02: LYSIS & RESTRICTION DIGEST
 ---
+## LAB EQUIPMENT & SUPPLIES
+---
+* Centrifuge 
+* Incubator or thermocycler 
+
+* Hi-C lysis buffer (10mM Tris-Hcl pH 8.0, 10mM NaCl, 0.2% igepal CA630),	750.0ul
+* protease inhibitors (Sigma P8340),	50.0ul
+* 0.5% sodium dodecyl sulfate (SDS),	50.0ul
+* Milli-q water,	145.0ul
+* 10% Triton X-100(Sigma 93443),	25.0ul
+* 10X NEBuffer2,	25.0 ul
+* MboI (NEB R0147),	100.0U
+
 ## LAB INSTRUCTIONS 
 ---
 ### LYSIS AND RESTRICTION DIGEST
