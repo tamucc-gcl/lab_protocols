@@ -22,6 +22,7 @@ _It is important to use blood, cells, or tissue with intact nuclei and chromatid
 
 ## FIELD EQUIPMENT & SUPPLIES
 
+* Liquid nitrogen
 * 1% Fresh Formaldehyde in Filtered Seawater
   * 1 mL per sample * 1.05
 * Either 2M Glycine or 5M Tris-HCL ph8.0
@@ -47,6 +48,7 @@ _It is important to use blood, cells, or tissue with intact nuclei and chromatid
   * pre-filled with DNA preservative
 * Tube block
 *	Tube box for storage
+*	Mortar and pestel
 *	Cutting board
 * Razors & Forceps
 * 3mL syringes & 18 gauge needles (optional, for collection of blood/hemolymph)
@@ -89,7 +91,7 @@ _Note: educate yourself on the portion of your blood/hemolymph sample that is nu
 
 ## FIELD INSTRUCTIONS FOR TISSUE
 
-1. Take fresh tissue sample and place in snap-cap tube
+1. Take fresh tissue sample and place in snap-cap tube or grind up under liquid nitrogen with mortar and pestel
    * Live is best, the thinner the tissue the better so that formaldehyde can penetrate
    * In fish, liver has been demonstrated to work well
 2. Crosslink DNA by adding 1 mL formaldehyde solution (final concentration of 1%, v/v) to pellet. Incubate at room temperature for 10 minutes while inverting tubes.
